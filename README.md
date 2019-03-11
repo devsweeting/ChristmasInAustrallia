@@ -8,6 +8,8 @@
 
 This application is our final group project from the the Ruby Track at Epicodus.
 
+# ![demo](public/screenshot.png)
+
 ## Setup/Installation Requirements
 
 * This application was built on Ruby 2.5.1 on Rails 5.2.2, using PostgreSQL as a database server. If you have these or equivalent versions installed, you're ready to install this repository:
